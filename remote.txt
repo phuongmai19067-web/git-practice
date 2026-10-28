@@ -1,0 +1,4 @@
+Command: git remote -v
+Output:
+origin	https://github.com/phuongmai19067-web/git-practice.git (fetch)
+origin	https://github.com/phuongmai19067-web/git-practice.git (push)
