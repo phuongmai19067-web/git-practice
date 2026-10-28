@@ -1,7 +1,5 @@
-HEAD
 Greetings from my computer and from GitHub
 Once upon a time in Helsinki there was a developer.
-64476989e926b32a4d53f1b9c7e83e8760c7c760
 She learned Git every day.
 The end.
 Really the end.
