@@ -3,3 +3,4 @@ bread
 eggs
 apples
 cheese
+coffee
